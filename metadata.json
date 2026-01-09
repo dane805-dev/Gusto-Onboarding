@@ -1,0 +1,5 @@
+{
+  "name": "Gusto Day 0/Day 1 Prototype",
+  "description": "An end-to-end employee onboarding prototype featuring separate Owner and Employee views, smart checklists, and readiness tracking.",
+  "requestFramePermissions": []
+}
